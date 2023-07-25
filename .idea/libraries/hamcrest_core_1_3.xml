@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hamcrest-core-1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../BaiduNetdiskDownload/JavaWeb_2020IDEA新版/资料/05-XML &amp; Tomcat/笔记/Junit4的jar包/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../BaiduNetdiskDownload/JavaWeb_2020IDEA新版/资料/05-XML &amp; Tomcat/笔记/Junit4的jar包/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
